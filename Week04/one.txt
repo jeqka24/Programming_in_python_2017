@@ -1,0 +1,4 @@
+The first line of a file.
+The second line of a file.
+The third line of a file.
+The fourth line of the file
