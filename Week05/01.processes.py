@@ -15,9 +15,9 @@ import time
 foo = "bar"
 
 pid = os.fork()
-
+print(pid)
 if pid == 0:
-    # daughter porecess
+    # daughter process
 
     while True:
         foo = "baz"
